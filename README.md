@@ -18,7 +18,7 @@ Type 'python run.py' to generate the results for DeepJSCC-AF and DeepJSCC-PF. Fo
 
 please alternate the parameters listed in 'get_args.py' for different scenarios. An example to train the DeepJSCC-PF model in the above figure is given below.
 
-    cout = 12; cfeat = 256; relay_mode = 'DF'; sr_link = 12.0; sd_link = 6.0; rd_link = 6.0; adapt = True; sr_rng = 0.0; sd_rng = 4.0; rd_rng = 4.0; resume = False
+    cout = 12; cfeat = 256; relay_mode = 'PF'; sr_link = 12.0; sd_link = 6.0; rd_link = 6.0; adapt = True; sr_rng = 0.0; sd_rng = 4.0; rd_rng = 4.0; resume = False
 
 The training for DeepJSCC-AF and DF are similar and set 'resume' to True when testing these model.
 
