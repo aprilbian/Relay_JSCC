@@ -1,5 +1,5 @@
 # Relay_JSCC
-Source code for "Deep Joint Source-Channel Coding Over Relay Networks", [https://ieeexplore.ieee.org/abstract/document/10624800]
+Source code for "Deep Joint Source-Channel Coding Over Relay Networks", https://ieeexplore.ieee.org/abstract/document/10624800
 
 ## Introduction
 We propose three protocols for the simple cooperative relay network for the emerging semantic communications. The first two protocols, DeepJSCC-AF and DeepJSCC-DF resemeble the conventional amplify-and-forward (AF) and decode-and-forward (DF) protocols, while the third one, DeepJSCC-PF, is a simplification of DeepJSCC-DF protocol. In this conference version manuscript, we only consider the case where the source (S) node can't communicate during the relay-transmit period, the more general case (source can transmit during the entire cooperation period) will be explored in the journal version of this paper (coming soon). The system performance of the proposed scheme compared with the digital baseline is shown below.
